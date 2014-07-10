@@ -1,0 +1,3 @@
+name: letomcat-t2
+main: com.tenjava.entries.letomcat.t2.TenJava
+version: '${project.version}'
